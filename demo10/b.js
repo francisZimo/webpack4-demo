@@ -1,0 +1,1 @@
+module.exports = '俯瞰全世界';

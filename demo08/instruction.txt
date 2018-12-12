@@ -1,0 +1,7 @@
+#demo8
+HTML Webpack Plugin and Open Browser Webpack Plugin
+This demo shows you how to load 3rd-party plugins.
+html-webpack-plugin could create index.html for you, and open-browser-webpack-plugin could open a new browser tab when Webpack loads.
+
+
+Now you don't need to write index.html by hand and don't have to open browser by yourself. Webpack did all these things for you.

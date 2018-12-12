@@ -1,0 +1,3 @@
+#demo13
+Vendor chunk
+You can also extract the vendor libraries from a script into a separate file with CommonsChunkPlugin.

@@ -1,0 +1,1 @@
+document.write('<h1>新开页面 hello world</h1>')

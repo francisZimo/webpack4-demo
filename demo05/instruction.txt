@@ -1,0 +1,3 @@
+#demo5
+image-loader
+url-loader transforms image files into <img> tag. If the image size is smaller than 8192 bytes, it will be transformed into Data URL; otherwise, it will be transformed into normal URL.

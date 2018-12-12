@@ -1,0 +1,3 @@
+#demo12
+Common chunk
+When multi scripts have common chunks, you can extract the common part into a separate file with CommonsChunkPlugin, which is useful for browser caching and saving bandwidth.

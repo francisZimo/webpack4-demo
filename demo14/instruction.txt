@@ -1,0 +1,3 @@
+#demo14
+Exposing global variables
+If you want to use some global variables, and don't want to include them in the Webpack bundle, you can enable externals field in webpack.config.js (official document).
